@@ -1,0 +1,12 @@
+.ButtonMain{
+    font-size: 28px;    
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+.ButtonBlack{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.ButtonYellow{
+    background-color: yellow;
+}
